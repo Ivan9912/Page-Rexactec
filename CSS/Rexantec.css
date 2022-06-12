@@ -1,0 +1,23 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	background-color: whitesmoke;
+}
+
+*:hover {
+	color: rgb(111, 0, 255);
+}
+.contact-space {
+	font-size: 25px;
+	background-color: #000;
+	width: 100vw;
+	color:  white;
+	font-family: 'caveat', sans-serif;
+}
+.contact-section__p-h2 {
+	font-size: 25px;
+	background-color: rgba(245, 245, 245, 0.808);
+	width: 100vw;
+	color:  #000;
+	font-family: 'caveat', sans-serif;
+}
