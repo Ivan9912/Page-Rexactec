@@ -1,2 +1,2 @@
-Hola este es un comando Vim
+# This is the page of Rexantec
 
